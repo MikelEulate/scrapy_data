@@ -1,1 +1,2 @@
-# Retrieving data from a webiste through Scrapy
+# Scrapy
+Retrieving data from a webiste through Scrapy
